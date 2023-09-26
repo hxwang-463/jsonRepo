@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name":"iphone",
+            "price":1000
+        },
+        {
+            "id": 2,
+            "name":"ipad",
+            "price":800
+        }
+    ],
+    "reviews":[
+        {
+            "id": 1,
+            "reviews":[
+                "good","i like this", "great"
+            ]
+        },
+        {
+            "id": 2,
+            "reviews":[
+                "not good","wrong item"
+            ]
+        }
+
+    ],
+    "inventory":[
+        {
+            "id": 1,
+            "instock":100
+        },
+        {
+            "id": 2,
+            "instock":3
+        }
+    ]
+}
